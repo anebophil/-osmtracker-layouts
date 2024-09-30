@@ -1,4 +1,4 @@
-# Bus route
+# route
 
 This layout is for the tracks of  routes
 
